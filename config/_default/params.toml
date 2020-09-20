@@ -89,7 +89,6 @@ show_related = {docs = true, page = false, post = true, project = true, publicat
 
 # Enter contact details (optional). To hide a field, clear it to "".
 email = "roimaor@mail.tau.ac.il"
-twitter = "@Roi_Maor"
 phone = ""
 
 # Address
@@ -128,7 +127,7 @@ contact_links = [
 sharing_image = ""
 
 # Twitter username (without @). Used when a visitor shares your site on Twitter.
-twitter = ""
+twitter = "@Roi_Maor"
 
 ############################
 ## Regional Settings
